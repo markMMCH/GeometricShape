@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Circle_1 = require("../classes/Circle");
+const Circle_1 = require("../src/classes/Circle");
 describe('GeometricShape Classes', () => {
     test('Circle area and perimeter', () => {
         const circle = new Circle_1.Circle(5);

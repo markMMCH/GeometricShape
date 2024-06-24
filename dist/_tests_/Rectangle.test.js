@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Rectangle_1 = require("../classes/Rectangle");
+const Rectangle_1 = require("../src/classes/Rectangle");
 describe('GeometricShape Classes', () => {
     test('Rectangle area and perimeter', () => {
         const rectangle = new Rectangle_1.Rectangle(7, 10);

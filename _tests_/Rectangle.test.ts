@@ -1,4 +1,4 @@
-import { Rectangle } from "../classes/Rectangle";
+import { Rectangle } from "../src/classes/Rectangle";
 describe('GeometricShape Classes', () => {
   test('Rectangle area and perimeter', () => {
     const rectangle = new Rectangle(7, 10);

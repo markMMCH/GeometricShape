@@ -1,4 +1,4 @@
-import { Circle } from "../classes/Circle";
+import { Circle } from "../src/classes/Circle";
 describe('GeometricShape Classes', () => {
   test('Circle area and perimeter', () => {
     const circle = new Circle(5);
