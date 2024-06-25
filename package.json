@@ -1,12 +1,13 @@
 {
   "name": "geometricshape",
   "version": "1.0.0",
-  "main": "jest.config.js",
+  "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
