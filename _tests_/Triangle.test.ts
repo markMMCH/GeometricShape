@@ -1,4 +1,4 @@
-import { Triangle } from '../src/classes/Triangle';
+import { Triangle } from '../src/Triangle';
 describe('GeometricShape Classes', () => {
   test('Triangle area and perimeter', () => {
     const triangle = new Triangle(3, 4, 5);
